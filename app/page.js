@@ -5,7 +5,7 @@ import { Hero2 } from "@/components/Hero";
 import LetsTalk from "@/components/LetsTalk";
 import { Pricing2 } from "@/components/Pricing";
 import { Projects2 } from "@/components/Projects";
-import { Resume2 } from "@/components/Resume";
+import { Resume } from "@/components/Resume";
 import ScrollTop from "@/components/ScrollTop";
 import { Services2 } from "@/components/Services";
 import { Skill2 } from "@/components/Skill";
@@ -144,7 +144,7 @@ const Index2 = () => {
       </div>
       {/* Headline Area end */}
       {/* Resume Area start */}
-      <Resume2 />
+      <Resume />
       {/* Resume Area end */}
       {/* Services Area start */}
       <Services2 />
@@ -359,7 +359,7 @@ const Index2 = () => {
       </section>
       {/* Awward Area end */}
       {/* Pricing Area start */}
-      <Pricing2 />
+      {/* <Pricing2 /> */}
       {/* Pricing Area end */}
       {/* Client Logo start */}
       <Clients2 />
