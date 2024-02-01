@@ -29,7 +29,7 @@ const fontFamily = `${inter.variable} ${dm_sans.variable} `;
 
 export const metadata = {
   title: {
-    default: "Talha Faisal - Expert UI/UX & Full Stack Developer | React NextJS Portfolio", 
+    default: "Talha Faisal - Expert UI/UX & Full Stack Developer | Home", 
   },
   description: "Talha Faisal's portfolio showcasing expertise in UI/UX and Full Stack development, skillfully crafted using React and NextJS.",
 };
