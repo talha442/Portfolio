@@ -48,7 +48,7 @@ export const Resume = () => {
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" />Sept 2023 - Dec 2023{" "}
+                        <i className="far fa-calendar-alt" /> Sept 2023 - Dec 2023{" "}
                       </span>
                       <h5 className="title">Angular Developer</h5>
                     </div>
@@ -101,7 +101,7 @@ export const Resume = () => {
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> 2020 - Present{" "}
+                        <i className="far fa-calendar-alt" /> Jan 2020 - Present{" "}
                       </span>
                       <h5 className="title">BS Computer Science</h5>
                     </div>
@@ -112,7 +112,7 @@ export const Resume = () => {
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> 2023 - Present{" "}
+                        <i className="far fa-calendar-alt" /> Aug 2023 - Present{" "}
                       </span>
                       <h5 className="title">Google DSC Lead</h5>
                     </div>
@@ -125,7 +125,7 @@ export const Resume = () => {
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> 2022 - 2023{" "}
+                        <i className="far fa-calendar-alt" /> Aug 2022 - Jul 2023{" "}
                       </span>
                       <h5 className="title">Google DSC Web Lead</h5>
                     </div>
@@ -136,7 +136,7 @@ export const Resume = () => {
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> 2017 - 2019{" "}
+                        <i className="far fa-calendar-alt" /> Sept 2017 - Aug 2019{" "}
                       </span>
                       <h5 className="title">Pre-Engineering</h5>
                     </div>
