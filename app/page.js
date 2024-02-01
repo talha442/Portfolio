@@ -11,7 +11,7 @@ import { Services2 } from "@/components/Services";
 import { Skill2 } from "@/components/Skill";
 import NoxfolioLayout from "@/layout/NoxfolioLayout";
 
-const Home = () => {
+const index = () => {
   return (
     <NoxfolioLayout header={2} footer={2} onePageMenu={true}>
       {/*End Hidden Sidebar */}
@@ -413,4 +413,4 @@ const Home = () => {
     </NoxfolioLayout>
   );
 };
-export default Home;
+export default index;
