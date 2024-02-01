@@ -3,7 +3,7 @@
 import { noxfolioUtilits } from "@/utility";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import MultiMenu, { OnePageMenu } from "./Menu";
+import { OnePageMenu } from "./Menu";
 
 const Header = ({ header, onePageMenu }) => {
   switch (header) {
@@ -81,7 +81,7 @@ const Header1 = ({ onePageMenu }) => {
                     toggle ? "show" : ""
                   }`}
                 >
-                  {onePageMenu ? <OnePageMenu /> : <MultiMenu />}
+                 <OnePageMenu />
                 </div>
               </nav>
               {/* Main Menu End*/}
@@ -169,7 +169,6 @@ const Header2 = ({ onePageMenu }) => {
                     toggle ? "show" : ""
                   }`}
                 >
-                  {onePageMenu ? (
                     <ul className="navigation onepage clearfix">
                       <li>
                         <a href="#home">Home</a>
@@ -193,9 +192,7 @@ const Header2 = ({ onePageMenu }) => {
                         <a href="#contact">Contact</a>
                       </li>
                     </ul>
-                  ) : (
-                    <MultiMenu />
-                  )}
+                  
                 </div>
               </nav>
               {/* Main Menu End*/}
