@@ -1,5 +1,4 @@
 import { About2 } from "@/components/About";
-import { Blog2 } from "@/components/Blog";
 import { Clients2 } from "@/components/Clients";
 import { Contact2 } from "@/components/Contact";
 import { Hero2 } from "@/components/Hero";
@@ -406,9 +405,6 @@ const Index2 = () => {
         </div>
       </div>
       {/* Headline Area end */}
-      {/* Blog Area start */}
-      <Blog2 />
-      {/* Blog Area end */}
       {/* Lets Talk Area start */}
       <LetsTalk />
       {/* Lets Talk Area end */}

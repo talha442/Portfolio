@@ -205,11 +205,6 @@ export const Footer2 = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link legacyBehavior href="blog">
-                    News
-                  </Link>
-                </li>
-                <li>
                   <Link legacyBehavior href="contact">
                     Contact
                   </Link>

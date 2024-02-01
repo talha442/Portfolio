@@ -190,9 +190,6 @@ const Header2 = ({ onePageMenu }) => {
                         <a href="#projects">projects</a>
                       </li>
                       <li>
-                        <a href="#blog">blog</a>
-                      </li>
-                      <li>
                         <a href="#contact">Contact</a>
                       </li>
                     </ul>
