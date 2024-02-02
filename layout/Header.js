@@ -126,12 +126,13 @@ const Header2 = ({ onePageMenu }) => {
             <div className="logo-outer">
               <div className="logo">
                 <Link legacyBehavior href="/">
-                  <a>
-                    <img
+                  <a className="h3">
+                    {/* <img
                       src="assets/images/logos/logo.png"
                       alt="Logo"
                       title="Logo"
-                    />
+                    /> */}
+                    Talha Faisal
                   </a>
                 </Link>
               </div>

@@ -174,8 +174,9 @@ export const Footer2 = () => {
             <div className="footer-widget widget_logo text-center text-md-start wow fadeInUp delay-0-2s">
               <div className="footer-logo">
                 <Link legacyBehavior href="/">
-                  <a>
-                    <img src="assets/images/logos/logo.png" alt="Logo" />
+                  <a className="h3">
+                    {/* <img src="assets/images/logos/logo.png" alt="Logo" /> */}
+                    Talha Faisal
                   </a>
                 </Link>
               </div>
@@ -229,17 +230,17 @@ export const Footer2 = () => {
               <div className="social-flow">
                 <h4>Follow :</h4>
                 <div className="social-style-one">
-                  <a href="#">
-                    <i className="fab fa-twitter" />
+                <a href="https://github.com/talha442">
+                    <i className="fab fa-github" />
+                  </a>
+                  <a href="https://www.linkedin.com/in/talhafaisal">
+                    <i className="fab fa-linkedin" />
                   </a>
                   <a href="#">
                     <i className="fab fa-facebook-f" />
                   </a>
                   <a href="#">
                     <i className="fab fa-instagram" />
-                  </a>
-                  <a href="#">
-                    <i className="fab fa-pinterest-p" />
                   </a>
                 </div>
               </div>
