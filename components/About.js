@@ -26,7 +26,7 @@ export const About2 = () => {
                 <div className="col-xl-3 col-sm-4 col-6">
                   <div className="about-info-item wow fadeInUp delay-0-2s">
                     <small>born In</small>
-                    <b>Pakistan</b>
+                    <b> Pakistan</b>
                   </div>
                 </div>
                 <div className="col-xl-3 col-sm-4 col-6">
