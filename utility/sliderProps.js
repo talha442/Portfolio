@@ -1,4 +1,4 @@
-export const noxfolioSlider = {
+export const Slider = {
   testimonials: {
     dots: false,
     infinite: true,
