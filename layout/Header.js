@@ -209,7 +209,7 @@ const Header2 = ({ onePageMenu }) => {
                   />
                 </button>
               </div>
-              <Link legacyBehavior href="contact">
+              <Link legacyBehavior href="#contact">
                 <a className="theme-btn"> let,s talk</a>
               </Link>
             </div>

@@ -186,27 +186,22 @@ export const Footer2 = () => {
             <div className="footer-widget widget_nav_menu me-0 wow fadeInUp delay-0-4s">
               <ul>
                 <li>
-                  <Link legacyBehavior href="services">
+                  <Link legacyBehavior href="#services">
                     Service
                   </Link>
                 </li>
                 <li>
-                  <Link legacyBehavior href="projects">
+                  <Link legacyBehavior href="#projects">
                     Projects
                   </Link>
                 </li>
-                <li>
-                  <Link legacyBehavior href="services#pricing">
-                    Pricing
-                  </Link>
-                </li>
-                <li>
+                {/* <li>
                   <Link legacyBehavior href="about#faqs">
                     Faqs
                   </Link>
-                </li>
+                </li> */}
                 <li>
-                  <Link legacyBehavior href="contact">
+                  <Link legacyBehavior href="#contact">
                     Contact
                   </Link>
                 </li>
