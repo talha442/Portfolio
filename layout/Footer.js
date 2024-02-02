@@ -116,7 +116,7 @@ const Footer1 = () => {
                 <p>
                   Copyright @{date},{" "}
                   <Link legacyBehavior href="/">
-                    Noxfolio
+                    Talha Faisal
                   </Link>{" "}
                   All Rights Reserved
                 </p>

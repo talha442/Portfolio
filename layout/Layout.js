@@ -1,5 +1,5 @@
 "use client";
-import { noxfolioUtilits } from "@/utility";
+import { utilits } from "@/utility";
 import { useEffect } from "react";
 import Footer from "./Footer";
 import Header from "./Header";
@@ -13,7 +13,7 @@ const Layout = ({
   onePageMenu,
 }) => {
   useEffect(() => {
-    noxfolioUtilits.animaiton();
+    utilits.animaiton();
   }, []);
 
   return (

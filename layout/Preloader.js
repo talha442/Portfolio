@@ -1,10 +1,10 @@
 "use client";
-import { noxfolioUtilits } from "@/utility";
+import { utilits } from "@/utility";
 import { useEffect } from "react";
 
 const Preloader = () => {
   useEffect(() => {
-    noxfolioUtilits.preloader();
+    utilits.preloader();
   }, []);
 
   return <div className="preloader" />;
