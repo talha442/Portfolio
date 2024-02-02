@@ -173,10 +173,9 @@ export const Footer2 = () => {
           <div className="col-lg-3 col-md-5">
             <div className="footer-widget widget_logo text-center text-md-start wow fadeInUp delay-0-2s">
               <div className="footer-logo">
-                <Link legacyBehavior href="/">
-                  <a className="h3">
-                    {/* <img src="assets/images/logos/logo.png" alt="Logo" /> */}
-                    Talha Faisal
+              <Link legacyBehavior href="/">
+                  <a style={{display: "flex", gap: "15px", margin: "0px"}} className="h3">
+                    <i style={{color:'#C9F31D'}} className="flaticon-asterisk-1"></i> Talha Faisal
                   </a>
                 </Link>
               </div>

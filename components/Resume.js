@@ -11,10 +11,15 @@ export const Resume = () => {
           <div className="col-lg-8">
             <div className="section-title mb-35 wow fadeInUp delay-0-2s">
               <span className="sub-title mb-15">
-                <i className="flaticon-asterisk-1" />
-                MY Expereince resume
+                <i className="flaticon-asterisk-1"> </i>
+                Professional Journey
               </span>
-              <h2>work &amp; Education</h2>
+              <h2>Work & Education</h2>
+              <p class="mt-20">
+                A seasoned Full Stack Developer, I merge technical skill with
+                design finesse, backed by a solid educational grounding and a
+                rich portfolio of industry experience.
+              </p>
             </div>
           </div>
           <div className="col-lg-4 text-lg-end">
@@ -41,18 +46,25 @@ export const Resume = () => {
                       </span>
                       <h5 className="title">UI/UX Developer</h5>
                     </div>
-                    <a href="https://www.linkedin.com/in/talhafaisal/" className="details-btn">
+                    <a
+                      href="https://www.linkedin.com/in/talhafaisal/"
+                      className="details-btn"
+                    >
                       <i className="fal fa-long-arrow-right" />
                     </a>
                   </div>
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> Sept 2023 - Dec 2023{" "}
+                        <i className="far fa-calendar-alt" /> Sept 2023 - Dec
+                        2023{" "}
                       </span>
                       <h5 className="title">Angular Developer</h5>
                     </div>
-                    <a href="https://www.linkedin.com/in/talhafaisal/" className="details-btn">
+                    <a
+                      href="https://www.linkedin.com/in/talhafaisal/"
+                      className="details-btn"
+                    >
                       <i className="fal fa-long-arrow-right" />
                     </a>
                   </div>
@@ -61,22 +73,30 @@ export const Resume = () => {
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> May 2022 - Apr 2023{" "}
+                        <i className="far fa-calendar-alt" /> May 2022 - Apr
+                        2023{" "}
                       </span>
                       <h5 className="title">Frontend Developer</h5>
                     </div>
-                    <a href="https://www.linkedin.com/in/talhafaisal/" className="details-btn">
+                    <a
+                      href="https://www.linkedin.com/in/talhafaisal/"
+                      className="details-btn"
+                    >
                       <i className="fal fa-long-arrow-right" />
                     </a>
                   </div>
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> Nov 2022 - Dec 2022{" "}
+                        <i className="far fa-calendar-alt" /> Nov 2022 - Dec
+                        2022{" "}
                       </span>
                       <h5 className="title">Web Developer</h5>
                     </div>
-                    <a href="https://www.linkedin.com/in/talhafaisal/" className="details-btn">
+                    <a
+                      href="https://www.linkedin.com/in/talhafaisal/"
+                      className="details-btn"
+                    >
                       <i className="fal fa-long-arrow-right" />
                     </a>
                   </div>
@@ -105,7 +125,10 @@ export const Resume = () => {
                       </span>
                       <h5 className="title">BS Computer Science</h5>
                     </div>
-                    <a href="https://www.linkedin.com/in/talhafaisal/" className="details-btn">
+                    <a
+                      href="https://www.linkedin.com/in/talhafaisal/"
+                      className="details-btn"
+                    >
                       <i className="fal fa-long-arrow-right" />
                     </a>
                   </div>
@@ -116,7 +139,10 @@ export const Resume = () => {
                       </span>
                       <h5 className="title">Google DSC Lead</h5>
                     </div>
-                    <a href="https://www.linkedin.com/in/talhafaisal/" className="details-btn">
+                    <a
+                      href="https://www.linkedin.com/in/talhafaisal/"
+                      className="details-btn"
+                    >
                       <i className="fal fa-long-arrow-right" />
                     </a>
                   </div>
@@ -125,22 +151,30 @@ export const Resume = () => {
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> Aug 2022 - Jul 2023{" "}
+                        <i className="far fa-calendar-alt" /> Aug 2022 - Jul
+                        2023{" "}
                       </span>
                       <h5 className="title">Google DSC Web Lead</h5>
                     </div>
-                    <a href="https://www.linkedin.com/in/talhafaisal/" className="details-btn">
+                    <a
+                      href="https://www.linkedin.com/in/talhafaisal/"
+                      className="details-btn"
+                    >
                       <i className="fal fa-long-arrow-right" />
                     </a>
                   </div>
                   <div className="timeline-item">
                     <div className="resume-content">
                       <span className="duration">
-                        <i className="far fa-calendar-alt" /> Sept 2017 - Aug 2019{" "}
+                        <i className="far fa-calendar-alt" /> Sept 2017 - Aug
+                        2019{" "}
                       </span>
                       <h5 className="title">Pre-Engineering</h5>
                     </div>
-                    <a href="https://www.linkedin.com/in/talhafaisal/" className="details-btn">
+                    <a
+                      href="https://www.linkedin.com/in/talhafaisal/"
+                      className="details-btn"
+                    >
                       <i className="fal fa-long-arrow-right" />
                     </a>
                   </div>

@@ -126,13 +126,8 @@ const Header2 = ({ onePageMenu }) => {
             <div className="logo-outer">
               <div className="logo">
                 <Link legacyBehavior href="/">
-                  <a className="h3">
-                    {/* <img
-                      src="assets/images/logos/logo.png"
-                      alt="Logo"
-                      title="Logo"
-                    /> */}
-                    Talha Faisal
+                  <a style={{display: "flex", gap: "15px", margin: "0px"}} className="h3">
+                    <i style={{color:'#C9F31D'}} className="flaticon-asterisk-1"></i> Talha Faisal
                   </a>
                 </Link>
               </div>
