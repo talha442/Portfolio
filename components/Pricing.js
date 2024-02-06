@@ -38,7 +38,7 @@ const Pricing = ({ extraClass }) => {
                   <li className="unable">Digital Marketing</li>
                   <li className="unable">Custom Support</li>
                 </ul>
-                <Link legacyBehavior href="/contact">
+                <Link legacyBehavior href="#contact">
                   <a className="theme-btn">
                     Choose Package <i className="far fa-angle-right" />
                   </a>
@@ -67,7 +67,7 @@ const Pricing = ({ extraClass }) => {
                   <li>Digital Marketing</li>
                   <li>Custom Support</li>
                 </ul>
-                <Link legacyBehavior href="/contact">
+                <Link legacyBehavior href="#contact">
                   <a className="theme-btn">
                     Choose Package <i className="far fa-angle-right" />
                   </a>
@@ -96,7 +96,7 @@ const Pricing = ({ extraClass }) => {
                   <li>Digital Marketing</li>
                   <li>Custom Support</li>
                 </ul>
-                <Link legacyBehavior href="/contact">
+                <Link legacyBehavior href="#contact">
                   <a className="theme-btn">
                     Choose Package <i className="far fa-angle-right" />
                   </a>
@@ -178,7 +178,7 @@ export const Pricing2 = () => {
                             alt="Arrow"
                           />
                         </div>
-                        <Link legacyBehavior href="/contact">
+                        <Link legacyBehavior href="#contact">
                           <a className="theme-btn">Get started</a>
                         </Link>
                       </div>
@@ -229,7 +229,7 @@ export const Pricing2 = () => {
                             alt="Arrow"
                           />
                         </div>
-                        <Link legacyBehavior href="/contact">
+                        <Link legacyBehavior href="#contact">
                           <a className="theme-btn">Get started</a>
                         </Link>
                       </div>
@@ -284,7 +284,7 @@ export const Pricing2 = () => {
                             alt="Arrow"
                           />
                         </div>
-                        <Link legacyBehavior href="/contact">
+                        <Link legacyBehavior href="#contact">
                           <a className="theme-btn">Get started</a>
                         </Link>
                       </div>
@@ -335,7 +335,7 @@ export const Pricing2 = () => {
                             alt="Arrow"
                           />
                         </div>
-                        <Link legacyBehavior href="/contact">
+                        <Link legacyBehavior href="#contact">
                           <a className="theme-btn">Get started</a>
                         </Link>
                       </div>

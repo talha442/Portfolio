@@ -23,7 +23,7 @@ export const Resume = () => {
             </div>
           </div>
           <div className="col-lg-4 text-lg-end">
-            <Link legacyBehavior href="/contact">
+            <Link legacyBehavior href="#contact">
               <a className="theme-btn mb-35">Contact Me</a>
             </Link>
           </div>
